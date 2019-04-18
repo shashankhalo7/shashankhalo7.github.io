@@ -1,0 +1,47 @@
+{
+  "sectionTitle": "skills",
+  "content": [
+    {
+      "title": "Technical skills",
+      "items": [
+        "Web Development",
+        "Responsive Design",
+        "Mobile Development (Hybrid/Native)",
+        "Game Development (Unity)",
+        "VR Development (Unity)",
+        "3D Modelling / Animation"
+      ]
+    },
+    {
+      "title": "Programming languages / tech stacks",
+      "items": [
+        "React/React Native",
+        "Node.js",
+        "Express.js",
+        "JavaScript",
+        "HTML & CSS",
+        "MongoDB",
+        "MySQL",
+        "Golang (newcomer)",
+        "C#/.NET (in old times)",
+        "Java (same as above)"
+      ]
+    },
+    {
+      "title": "Preferences",
+      "items": [
+        "Linux Deepin as main OS",
+        "Zsh as main shell",
+        "VS Code as editor of choice"
+      ]
+    },
+    {
+      "title": "Special interests",
+      "items": [
+        "Electronic music production",
+        "Entrepreneurship",
+        "Technical documentaries :)"
+      ]
+    }
+  ]
+}
