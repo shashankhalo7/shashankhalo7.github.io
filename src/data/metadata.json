@@ -12,8 +12,8 @@
   },
   "twitter": {
     "card": "summary",
-    "site": "https://caglarturali.com/",
-    "creator": "@caglarturali",
+    "site": "shashankpathak.ml",
+    "creator": "@shashankhalo7",
     "title": "Shashank Pathak | AI Enthusiast",
     "description": "Shashank Pathak's personal portfolio website",
     "image": "https://caglarturali.com/public/images/meta-img.png"
@@ -21,7 +21,7 @@
   "og": {
     "title": "Shashank Pathak | AI Enthusiast",
     "type": "website",
-    "url": "https://caglarturali.com/",
+    "url": "shashankpathak.ml",
     "image": "https://caglarturali.com/public/images/meta-img.jpg",
     "image_secure_url": "https://caglarturali.com/public/images/meta-img.jpg",
     "image_width": "320",

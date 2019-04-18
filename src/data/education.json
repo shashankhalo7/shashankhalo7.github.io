@@ -3,16 +3,10 @@
   "sectionSubtitle": "My academic background",
   "content": [
     {
-      "school": "Kirikkale University",
-      "department": "Computer Education and Instructional Technologies",
-      "degree": "Bachelor's Degree",
-      "years": "2010 - 2017"
-    },
-    {
-      "school": "Kirikkale University",
-      "department": "Physics",
-      "degree": "[Dropout]",
-      "years": "2008 - 2010"
+      "school": "Vellore Institute of Technology",
+      "department": "School Of Computing Science and Engineering",
+      "degree": "Bachelor's Degree in Computer Science",
+      "years": "2015 - 2019"
     }
   ]
 }
