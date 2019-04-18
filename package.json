@@ -8,11 +8,11 @@
     "start": "webpack-dev-server --env development",
     "test": "echo \"There is nothing to test here.\" && exit 1"
   },
-  "author": "Caglar Turali",
+  "author": "Shashank Pathak",
   "license": "GPL-3.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/caglarturali/caglarturali.github.io"
+    "url": "git+https://github.com/shashankhalo7/shashankhalo7.github.io"
   },
   "dependencies": {
     "@babel/polyfill": "^7.2.5",
